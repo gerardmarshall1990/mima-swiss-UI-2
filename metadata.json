@@ -1,0 +1,5 @@
+{
+  "name": "Mima Swiss Fintech Dashboard",
+  "description": "An internal operations dashboard for managing MT4/MT5 client accounts, featuring portfolio analytics, risk alerts, and detailed account drill-downs with period-based PnL and drawdown tracking.",
+  "requestFramePermissions": []
+}
